@@ -58,15 +58,15 @@ DevelNext OSX</h1>
 ## Скриншоты
 
 <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); grid-gap: 10px;">
-    <img src="https://api.nekkit.xyz/github/dnide/scr1.png" width="320px" alt="Загрузчик"/>
-    <img src="https://api.nekkit.xyz/github/dnide/scr2.png" width="320px" alt="Воркспейс"/>
-    <img src="https://api.nekkit.xyz/github/dnide/scr3.png" width="320px" alt="Меню загрузки или создания проектов"/>
-    <img src="https://api.nekkit.xyz/github/dnide/scr4.png" width="320px" alt="Рабочая среда DevelNext OSX"/>
-    <img src="https://api.nekkit.xyz/github/dnide/scr5.png" width="320px" alt="Редактор кода с комментариями"/>
-    <img src="https://api.nekkit.xyz/github/dnide/scr6.png" width="320px" alt="Создание модулей"/>
-    <img src="https://api.nekkit.xyz/github/dnide/scr7.png" width="320px" alt="Редактор стилей"/>
-    <img src="https://api.nekkit.xyz/github/dnide/scr8.png" width="320px" alt="Модули IDE"/>
-    <img src="https://api.nekkit.xyz/github/dnide/scr9.png" width="320px" alt="Демонстрация единого меню"/>
+    <img src="https://api.nekkit.xyz/github/dnide/scr1.png" width="250px" alt="Загрузчик"/>
+    <img src="https://api.nekkit.xyz/github/dnide/scr2.png" width="250px" alt="Воркспейс"/>
+    <img src="https://api.nekkit.xyz/github/dnide/scr3.png" width="250px" alt="Меню загрузки или создания проектов"/>
+    <img src="https://api.nekkit.xyz/github/dnide/scr4.png" width="250px" alt="Рабочая среда DevelNext OSX"/>
+    <img src="https://api.nekkit.xyz/github/dnide/scr5.png" width="250px" alt="Редактор кода с комментариями"/>
+    <img src="https://api.nekkit.xyz/github/dnide/scr6.png" width="250px" alt="Создание модулей"/>
+    <img src="https://api.nekkit.xyz/github/dnide/scr7.png" width="250px" alt="Редактор стилей"/>
+    <img src="https://api.nekkit.xyz/github/dnide/scr8.png" width="250px" alt="Модули IDE"/>
+    <img src="https://api.nekkit.xyz/github/dnide/scr9.png" width="250px" alt="Демонстрация единого меню"/>
 </div>
 
 ## Ссылки
