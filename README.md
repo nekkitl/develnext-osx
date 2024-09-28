@@ -6,7 +6,7 @@ DevelNext OSX</h1>
 > **Имя:** DevelNext IDE \
 > **Версия:** 16.7.2 \
 > **Разработчик:** Дмитрий Зайцев \
-> **Ссылка:** [DevelNext.ru](https://develnext.ru) \
+> **Ссылка:** [DevelNext](https://develnext.org) \
 > **JRE:** 1.8+ \
 > \
 > **Описание:** DevelNext IDE – это среда разработки, ориентированная на быстрое создание программ,
@@ -89,7 +89,7 @@ brew install openjdk@8 fish jq php@7.4
 
 #### Режимы запуска:
 
-<p style="font-family: monospace; ">
+<p style="font-family: monospace; "> 
 В собранной версии есть несколько режимов запуска и отладки. <br>
 В чем различия между ними? Первая использует штатный - <b>`LauncherFX`</b>, вторая - <b>`jphp-compiler`</b>.
 </p>
