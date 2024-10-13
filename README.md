@@ -1,3 +1,4 @@
+###### В текущий момент в доработке. Репозиторий пока пуст.
 <h1><img src="https://api.nekkit.xyz/github/dnide/app.png" width="256px"><br>
 DevelNext OSX</h1>
 
