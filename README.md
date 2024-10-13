@@ -52,7 +52,7 @@ DevelNext OSX</h1>
 > готовых решений и библиотек.
 
 > <img src="https://api.nekkit.xyz/github/dnide/scr9.png" width="800px"/><br>
-> **Адаптация функций macOS:**
+> **Адаптация функций macOS:** <br>
 > DevelNext IDE поддерживает macOS, например ее меню, кнопки и т.д. Нет проблем<br>
 > cо сборкой и компилированием проекта.
 
@@ -136,6 +136,8 @@ brew install openjdk@8 fish jq php@7.4
 Если только моральная, а также идейная. <br>
 Буду рад если Вы поставите звёзду проекту. Спасибо.
 </p>
+
+
 ___
 
 <p style="font-size: 11px; font-family: monospace; color: #666; ">
